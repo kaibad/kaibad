@@ -74,4 +74,16 @@ When I first started programming I wanted to learnProgramming applications . My 
 
 
 Most recently I learned a lot about business and finance to help our growing company. 
+# Contact me
+
+<br/>
+<p align="center">
+  <a href="mailto:badukailash001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=#000">
+  </a>
+  <a href="https://instagram.com.com/kai_bad">
+    <img src="https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
 
