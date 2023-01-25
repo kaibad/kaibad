@@ -6,7 +6,7 @@
 
 <p>
 <div align="center" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/badukailash001?style=social">
+ 
   <img src="https://img.shields.io/github/followers/kaibad?style=social">
   
   	
@@ -86,10 +86,13 @@ Most recently I learned a lot about business and finance to help our growing com
 <br/>
 <p align="center">
   <a href="mailto:badukailash001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=#000">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://instagram.com.com/kai_bad">
     <img src="https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://twitter.com.com/badukailash001">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
 
