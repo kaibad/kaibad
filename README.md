@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="http://kailashbadu.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaibad&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaibad&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
 <!-- ==============counter============ -->
