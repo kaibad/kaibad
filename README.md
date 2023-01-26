@@ -51,7 +51,7 @@
 <br/>
 <p align="left">
   <a href="http://kailashbadu.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kaibad&show_icons=true&theme=radical">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kaibad&show_icons=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaibad&theme=radical&hide_border=true">		  
   </a>
 </p>
