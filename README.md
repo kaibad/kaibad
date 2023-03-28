@@ -88,7 +88,7 @@ Most recently I learned a lot about business and finance to help our growing com
   <a href="mailto:badukailash001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://instagram.com.com/kai_bad">
+  <a href="https://instagram.com.com/kai_bad_1">
     <img src="https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://twitter.com.com/badukailash001">
