@@ -74,7 +74,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
-My name is Kailash.I'm the student of BSC.CSIT and Iam currently doing my bachelors from Nagarjuna  College of Information Technology.
+My name is Kailash.I'm student of BSC.CSIT and Iam currently doing my bachelors from Nagarjuna  College of Information Technology.
 i have keen interest in web designing and software development.
 
 When I first started programming I wanted to learnProgramming applications . My goal was for it to function similar to the Scratch programming language and complete it in time for my first year as a Physics and Astronomy student at the Tribhuwan University. 
