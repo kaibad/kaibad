@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?lines=Hello....!!;I'm+Kailash+Badu.;I+love+learning......!;I+love+spreading+knowledge......!;i'm+a+student+of+Bsc.+CSIT;&center=true&width=500&height=50"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?lines=Hello....!!;I'm+Kailash+Badu.;I+love+learning......!;I+love+spreading+knowledge......!;I'm+a+student+of+Bsc.+CSIT;&center=true&width=500&height=50"></a>
 </p>
 
 <!-- ==================socila=link==================== -->
