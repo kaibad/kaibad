@@ -18,7 +18,6 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffdd54">
- 
   <img src="https://img.shields.io/badge/JavaScript-033268.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
   <img src="https://img.shields.io/badge/HTML5-ab5337.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-832f18.svg?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -46,7 +45,7 @@
 
 <!-- ==============statistics============== -->
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif](https://media.giphy.com/media/PkGLJIKYcgCYrxdpks/giphy.gif " width="30"> Statistics
+ <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif](https://media.giphy.com/media/PkGLJIKYcgCYrxdpks/giphy.gif " width="30"> Statistics
 
 <br/>
 <p align="left">
@@ -67,11 +66,15 @@
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaibad&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
-<!-- ==============counter============ -->
+<!-- ==============counter============ 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://profile-counter.glitch.me/kaibad/count.svg">
+</p>-->
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=kaibad&label=Profile%20Views&countColor=%237B1E7A">
 </p>
+
 
 
  <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
